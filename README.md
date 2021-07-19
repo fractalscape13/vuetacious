@@ -1,24 +1,26 @@
-# vuetacious
+# Vuetacious
 
-## Project setup
-```
-npm install
-```
+#### _July 2021_
+#### By _**Joseph Wangemann**_
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Description
+_First app with Vue.js_
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Installation/Setup Instructions
+To run this project, you will:
+  * Clone the repository: `git clone https://github.com/fractalscape13/vuetacious`
+  * In the root project directory, run `npm install` to install all dependencies 
+  * In the root project directory, run `npm run serve` 
+  * Open the project in the browser at `localhost:8080`
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Technologies Used
+* Vue.js
+* NPM
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Known Bugs/Contact
+_If you have any questions or comments at all, please submit a pull request._
+
+### License
+*This application is licensed under the MIT license.*
+
+&copy; 2021 **_Joseph Wangemann_**
