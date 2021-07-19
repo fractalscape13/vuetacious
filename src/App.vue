@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Main msg="Welcome to Your Fucking Vue App"/>
+    <img alt="rainbow" src="./assets/logo.png">
+    <Main msg="Welcome to the Jungle"/>
   </div>
 </template>
 
